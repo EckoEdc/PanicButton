@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" # ~> 4.4
+github "ninjaprox/NVActivityIndicatorView"
+github "ashleymills/Reachability.swift" "develop"
+github "matthewpalmer/Locksmith"
